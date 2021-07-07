@@ -387,4 +387,6 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+# Security sake
 config.yml
+Legacy.cs
